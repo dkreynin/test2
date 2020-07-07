@@ -4,8 +4,9 @@
 #
 #    pip-compile requirements/dev.in
 #
-pyyaml<5.3.1             # via pre-commit
-pylint<2.5; 
+pyyaml==5.3             # via pre-commit
+PyYAML==5.3
+pylint==2.5; 
 werkzeug==0.1.1; python_version=2
 alabaster==0.7.12         # via sphinx
 appdirs==1.4.4            # via virtualenv
