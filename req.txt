@@ -10,6 +10,7 @@ pyyaml==5.3             # via pre-commit
 PyYAML==5.3
 pylint==2.5; 
 werkzeug==0.2; python_version=2
+keystonemiddleware>=4.17.0
 alabaster==0.7.12         # via sphinx
 appdirs==1.4.4            # via virtualenv
 attrs==19.3.0             # via pytest
