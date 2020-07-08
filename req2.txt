@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements/dev.in
 #
-tensorflow==0.12; python_version>3.6
+tensorflow==0.12; python_version>3.9
 python==3.5
 pyyaml==5.3             # via pre-commit
 PyYAML==5.3
