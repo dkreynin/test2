@@ -6,7 +6,7 @@
 #
 keystonemiddleware>=4.17.0
 ansible==2.9.5
-tensorflow==0.12.0
+tensorflow==0.11
 python==3.5
 pyyaml==5.3             # via pre-commit
 PyYAML==5.3
